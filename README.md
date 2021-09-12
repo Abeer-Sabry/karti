@@ -1,1 +1,1 @@
-# karti https://abeer-sabry.github.io/karti/
+# web   https://abeer-sabry.github.io/karti/
